@@ -1,4 +1,4 @@
-pack net.praqma.roadshow;
+package net.praqma.roadshow;
 
 import java.io.IOException;
 import java.io.Serializable;
