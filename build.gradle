@@ -32,11 +32,11 @@ deployPath = System.properties.deployPath ?: "${trainingUserWebappDir}/${appName
 buildNumber = System.properties.buildNumber ?: "SNAPSHOT"
 } 
 
-group = 'net.praqma.roadshow.buep' // FIXME - add your initials or github id here
+group = 'net.praqma.roadshow.jan' // FIXME - add your initials or github id here
 
 ext.versionMajor = "0"
 ext.versionMinor = "0"
-ext.versionPatch = "51"
+ext.versionPatch = "52"
 
 version = "${versionMajor}.${versionMinor}.${versionPatch}-${buildNumber}"
 
