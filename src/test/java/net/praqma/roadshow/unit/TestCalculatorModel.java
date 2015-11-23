@@ -51,6 +51,7 @@ public class TestCalculatorModel {
     public void subtractTestOneParameter() {
         Number number = model.subtract(new Integer(5));
         assertEquals(0d, number.doubleValue(),0.0000000000d);
+        assertTrue(false);
     }
 
     @Test
