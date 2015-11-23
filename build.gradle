@@ -36,7 +36,7 @@ group = 'net.praqma.roadshow.jan' // FIXME - add your initials or github id here
 
 ext.versionMajor = "0"
 ext.versionMinor = "0"
-ext.versionPatch = "52"
+ext.versionPatch = "53"
 
 version = "${versionMajor}.${versionMinor}.${versionPatch}-${buildNumber}"
 
